@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016 Martin Pfeffer
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Wahrheit oder Pflich</string>
+
+    <string name="action_settings">Einstellungen</string>
+    <string name="navigation_subtitle_game">Spiel</string>
+    <string name="instruction">Anleitung</string>
+    <string name="two_player">Zweispieler</string>
+    <string name="multiplayer">Mehrspieler</string>
+    <string name="navigation_subtitle_config">Konfiguration</string>
+    <string name="settings">Einstellungen</string>
+    <string name="restore">Wiederherstellen</string>
+    <string name="open">Öffnen</string>
+    <string name="close">Schließen</string>
+    <string name="instruction_content">Anleitung sollte bekannt sein…</string>
+    <string name="radio_male">männlich</string>
+    <string name="radio_female">weiblich</string>
+    <string name="playerX">1. Spieler</string>
+    <string name="player">Spieler</string>
+    <string name="start_game">SPIEL STARTEN</string>
+    <string name="name">Name</string>
+    <string name="jokers">Joker</string>
+    <string name="touch_twice_to_close">Zum Beenden nochmals drücken</string>
+    <string name="add_player">Spieler hinzufügen</string>
+    <string name="delete_player">Spieler löschen</string>
+    <string name="data_missing">Eingabe(n) fehlen</string>
+    <string name="surname">Nachname</string>
+    <string name="truth">Wahrheit</string>
+    <string name="dare">Plficht</string>
+    <string name="rb_joker">Joker</string>
+    <string name="rb_impossible">unmöglich</string>
+    <string name="rb_done">fertig</string>
+    <string name="ok">OK</string>
+    <string name="apply">Übernehmen</string>
+    <string name="reads_the_question">liest die Frage</string>
+    <string name="truth_or_dare">Wahrheit oder Pflicht</string>
+    <string name="dlg_impossible_title">Nicht zu erfüllende Aufgabe</string>
+    <string name="dlg_impossible_msg">Bestätigt jeder, dass diese Aufgabe nicht zu erfüllen ist?</string>
+    <string name="warning">Achtung</string>
+    <string name="dlg_game_is_running_msg">Es läuft ein Spiel. Bist du sicher, dass du das Spiel verlassen möchtest?</string>
+    <string name="select_action">Aktion wählen</string>
+    <string name="tell">lies\'</string>
+    <string name="please_read_the_question">lies bitte die Frage.</string>
+    <string name="what_to_do">was zu tun ist.</string>
+    <string name="start_a_game">Starte ein Spiel!</string>
+    <string name="game_is_running">Runde:</string>
+    <string name="toast_swipe_to_remove">Zum Entfernen wischen</string>
+    <string name="at_least_two_players">Mindestens 2 Spieler</string>
+    <string name="card_is_replayed_by_player">Karte muss zum 2ten Mal vom Spieler gespielt werden</string>
+    <string name="players">Spieler</string>
+    <string name="pref_cat_main">Allgemein</string>
+    <string name="pref_sum_touch_twice_to_exit">Berühre den Zurück Button 2x um die App zu verlassen</string>
+    <string name="pref_summary_export_to_sd">Die Datenbank auf dem Gerät  im XML-Format speichern</string>
+    <string name="pref_summary_import_from_web">Neue Datensätze aus dem Internet herunterladen</string>
+    <string name="pref_title_export_to_sd">Datenbank-Export</string>
+    <string name="pref_title_import_from_web">Datenbank-Import</string>
+    <string name="pref_title_touch_twice_to_exit">Verlassen der App</string>
+    <string name="recycler_view_player_counter">%1$d. Spieler</string>
+    <string name="dlg_title_cry_4_help">Hilferuf</string>
+    <string name="Cry4Help">Ruf\' nach Hilfe</string>
+    <string name="pref_summary_db_wipe_player">Alle Spielerinformationen löschen</string>
+    <string name="pref_title_db_wipe_player">Spieler löschen</string>
+</resources>
